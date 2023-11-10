@@ -1,0 +1,55 @@
+
+Re Job Opportunity-SAP BW & SAC Developer- Herndon, VA (Hybrid)-Full Time
+
+Hi,
+
+This Is Souvik from Product Modelling Corp (PMC). We are in business since 1985, PMC has been a leading provider of digital manufacturing, engineering, supply chain, and operations productivity solutions.
+
+I am reaching out to you regarding a SAP BW & SAC Developer role, We are currently hiring for the below job opportunity for our direct client. please reply to this email with an updated copy of your resume and your contact number, you can email me at sbose@pmcorp.com or text or call me at 3132097782
+
+
+Position- SAP BW & SAC Developer
+
+Duration - Full Time
+
+Location - Herndon,VA  (Hybrid)
+
+
+Job Responsibilities
+
+Experience on both SAP and Non-SAP Data source for consuming data in SAC using both Live and Import Data connections
+
+Experience of working with BW models, Advanced DSOs and using BW objects exposed as HANA views.
+
+Experience developing end to end data flows for BW
+
+Good experience in performance tuning of long running queries/procedures
+
+Experience with large data volume , performance tuning
+
+Strong experience with SQL at an advanced level of expertise
+
+Strong ABAP skills
+
+Experience in Process chain development, monitoring, troubleshooting, data validation and reconciliation
+
+Understanding on BW transport process
+
+Experience in Smart Data Access and Smart data Integration will be an added advantage.
+
+Exposure to Cloud tools/integration
+
+Experience in Designing SAP HANA Views and consume them in SAP Analytics on Cloud
+
+Experience on creating Dashboards on several SAP (S/4 HANA) as well as Non-SAP systems (Flat Files, other non-
+SAP Data sources)
+
+Experience working on Support project in SAC
+
+Understanding on SAP Best Practices and have knowledge in multiple modules, their integrations & technology
+
+Participate in on-call rotation
+
+Experience of 7 years or more pf SAP BW hands-on installations, upgrades, patching of SAP BW, HANA
+
+
